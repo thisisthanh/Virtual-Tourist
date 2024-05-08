@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static VirtualTouristClient.fetchPhotos(latitude:longitude:page:completion:):VirtualTouristClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VirtualTouristClient.Endpoints.url.getter:VirtualTouristClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
